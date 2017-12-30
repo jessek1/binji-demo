@@ -18,3 +18,28 @@ The aspect ratio of the image will always be kept.  Width has precedence over he
 
 ## slow intial loads
 No eager fetching of data has been enabled yet so initial loads are slow.  I will add this soon.  Subsequent loads should be fast as after the initial load the result will be cached. 
+
+## api
+Base url: http://dev.d360technologies.com//binji-demo-webapi/api/v0.0.0
+
+•	Content
+o	/ovdcontent/provider/{name}
+	The name is like query so it will try and pick up anything that matches.
+	There were some international providers that I’ve excluded via hardcoding in the query, you can see lists attached.
+	Params
+•	genres
+o	single or csv
+	Example
+•	/ovdcontent/provider/netflix?genres=action,war&p=0&s=20
+o	/ovdcontent/genre/{genre}
+	Single or csv
+	Example
+•	/ovdcontent/genre/action?p=0&s=2
+o	/ovdcontent/{tmsId}
+	Singular item retrieval
+•	Apps
+o	/apps/{genre}
+	Example
+•	/apps/genre/movie
+	This is just an import of the google sheet so once the sheet is updated, can rerun the import to update the db here.
+o	/apps/{id}
