@@ -43,3 +43,183 @@ o	/apps/{genre}
 •	/apps/genre/movie
 	This is just an import of the google sheet so once the sheet is updated, can rerun the import to update the db here.
 o	/apps/{id}
+
+## providers catalog data being used
+'Adult Swim'
+'Amazon.com'
+'CBS'
+'Crackle'
+'Disney'
+'HBO'
+'Hulu'
+'iTunes Store'
+'MTV'
+'National Geographic'
+'NBC'
+'Netflix'
+'nick.com'
+'PBS'
+'TBS'
+'CW'
+'tv.com'
+'YouTube'
+'ABC'
+'Freeform'
+'A&E'
+'AMC'
+'BBC America'
+'BET'
+'Cartoon Network'
+'Food Network'
+'Fox'
+'Lifetime'
+'Showtime'
+'SnagFilms'
+'SyFy'
+'TNT'
+'TV Land'
+'USA Network'
+'VH1'
+'WE tv'
+'Spike'
+'Comedy Central'
+'Cinemax'
+'VUDU'
+'FilmFlex'
+'BBC'
+'GlobalTV'
+'ShowCase'
+'Channel 4'
+'Channel 5'
+'Verizon Flexview'
+'Netflix SE'
+'Epix'
+'Bravo'
+'Eonline'
+'History Channel'
+'FYI'
+'Docplay'
+'Fox Sports'
+
+## providers catalog data being excluded
+'XFINITY', 
+'Netflix MX', 
+'YouTube MX',
+'Netflix DE',
+'Netflix UK',
+'YouTube CA',
+'YouTube UK',
+'Netflix CA',
+'iTunes CA',
+'iTunes UK',
+'ITV',
+'CBC',
+'CTV',
+'YouTube MX',
+'Netflix DE',
+'Netflix FR',
+'Netflix DK',
+'Netflix FI',
+'Netflix NO',
+'ZDF',
+'Arte',
+'Maxdome',
+'TF1',
+'FilmoTV',
+'France TV Pluzz VAD',
+'France TV Pluzz',
+'Wuaki ES',
+'6Play',
+'Chili Web',
+'ARD',
+'Amazon UK',
+'iTunes DE',
+'iTunes FR',
+'Videociety DE',
+'Netflix AT',
+'Viewster DE',
+'Viewster AT',
+'Crackle CA',
+'Netflix CH-fr',
+'Netflix CH-de',
+'Netflix BR',
+'TNT Go BR',
+'Space Go BR',
+'Telecine Play BR',
+'Crackle BR',
+'iTunes BR',
+'YouTube BR',
+'Cartoon Go BR',
+'Esporte Interativo',
+'Globosat GNT',
+'Globosat Universal',
+'Globosat SporTV',
+'Globosat Multishow',
+'Globosat BIS',
+'Globosat Viva',
+'Globosat Canal Off',
+'Globosat Gloob',
+'Globosat GloboNews',
+'Globosat Canal Brasil',
+'Globosat Megapix',
+'Globosat Combate',
+'Globosat Globosat',
+'Espn BR',
+'Philos',
+'7TV',
+'Sexy Hot',
+'Sky',
+'Netflix AU',
+'Fox Brazil Fox',
+'Fox Brazil FX',
+'Fox Brazil Sports',
+'Fox Brazil Life',
+'Fox Brazil National Geographic',
+'Netflix NZ',
+'iTunes AU',
+'Telstra',
+'SBS',
+'Stan',
+'Tenplay',
+'Wuaki FR',
+'Wuaki DE',
+'Wuaki IT',
+'Space Go MX',
+'TNT Go MX',
+'Fox Mexico Fox',
+'Fox Mexico Sports',
+'Fox Mexico FX',
+'Fox Mexico Life',
+'Fox Mexico National Geographic',
+'Fox Mexico Plus',
+'Wuaki UK',
+'PlusSeven',
+'NineNow',
+'ABCiView',
+'Globosat Syfy',
+'Fox Brazil Premium',
+'UKTV',
+'RTL TV Now',
+'HBO BR Documentaries',
+'HBO BR Kids',
+'HBO BR Movies',
+'HBO BR Series',
+'HBO BR Specials',
+'HBO BR Adult',
+'CW Seed',
+'Discovery Kids BR',
+'Foxtel Play',
+'Noggin BR',
+'AXN BR',
+'A&E BR',
+'E! BR',
+'Telemundo',
+'Sony BR',
+'History BR',
+'Lifetime BR',
+'Telekom Sport',
+'Netflix AU Telstra',
+'Fox Mexico Premium',
+'Hayu UK',
+'VM Store UK',
+'SevenPlus'
