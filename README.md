@@ -20,7 +20,7 @@ The aspect ratio of the image will always be kept.  Width has precedence over he
 No eager fetching of data has been enabled yet so initial loads are slow.  I will add this soon.  Subsequent loads should be fast as after the initial load the result will be cached. 
 
 ## api
-Base url: http://dev.d360technologies.com//binji-demo-webapi/api/v0.0.0
+temp base url: http://dev.d360technologies.com/binji-demo-webapi/api/v0.0.0
 
 •	Content
 o	/ovdcontent/provider/{name}
